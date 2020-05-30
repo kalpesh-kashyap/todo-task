@@ -1,0 +1,4 @@
+@import '~antd/dist/antd.css';
+.ant-message {
+    z-index: 10100;
+}
